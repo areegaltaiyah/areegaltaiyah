@@ -59,6 +59,3 @@ I’m excited to dive deeper into **video game development** and **3D modeling**
   <img src="https://streak-stats.demolab.com?user=areegaltaiyah&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-##
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areegaltaiyah&theme=dark" alt="areegaltaiyah" /></p>
